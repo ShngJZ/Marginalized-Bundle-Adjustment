@@ -24,10 +24,14 @@ We introduce **Marginalized Bundle Adjustment (MBA)**, a bundle-adjustment objec
 ## Methodology
 
 <p align="center">
-  <img src="assets/web_methodology.jpg" width="100%" alt="MBA Methodology">
+  <img src="assets/teaser.gif" style="width:100%" alt="MBA Teaser Animation">
 </p>
 
 **MBA** formulates the mono-depth's projective residual as an error distribution R={r}. Its forward function indexes the Cumulative-Distribution-Function (CDF) of the residual distribution R. Its backward function indexes the Probability-Distribution-Function (PDF) of the residual distribution R. The Bundle-Adjustment operates to maximize the Area-Under-the-Curve (AUC) of the CDF function.
+
+<p align="center">
+  <img src="assets/web_methodology.jpg" style="width:100%" alt="MBA Methodology">
+</p>
 
 ## Qualitative Results
 
