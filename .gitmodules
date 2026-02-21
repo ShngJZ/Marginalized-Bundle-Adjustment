@@ -1,0 +1,21 @@
+[submodule "third_party/RoMa"]
+	path = third_party/RoMa
+	url = https://github.com/Parskatt/RoMa.git
+[submodule "third_party/ZoeDepth"]
+	path = third_party/ZoeDepth
+	url = https://github.com/isl-org/ZoeDepth.git
+[submodule "third_party/Hierarchical-Localization"]
+	path = third_party/Hierarchical-Localization
+	url = https://github.com/cvg/Hierarchical-Localization.git
+[submodule "third_party/UniDepth"]
+	path = third_party/UniDepth
+	url = https://github.com/lpiccinelli-eth/UniDepth.git
+[submodule "third_party/dust3r"]
+	path = third_party/dust3r
+	url = https://github.com/naver/dust3r.git
+[submodule "third_party/mast3r"]
+	path = third_party/mast3r
+	url = https://github.com/naver/mast3r.git
+[submodule "third_party/fastmap"]
+	path = third_party/fastmap
+	url = https://github.com/pals-ttic/fastmap.git
