@@ -8,8 +8,6 @@
 
 <sup>1</sup>Google &nbsp;&nbsp; <sup>2</sup>Michigan State University
 
-**3DV 2026**
-
 </div>
 
 ## Abstract
