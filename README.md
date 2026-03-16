@@ -2,8 +2,7 @@
 <h1>Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates</h1>
 
 <a href="https://marginalized-ba.github.io/" target="_blank"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
-<a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b" alt="arXiv"></a>
-<a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf"><img src="https://img.shields.io/badge/Paper-PDF-blue" alt="Paper PDF"></a>
+<a href="https://arxiv.org/abs/2602.18906"><img src="https://img.shields.io/badge/arXiv-2602.18906-b31b1b" alt="arXiv"></a><a href="https://openreview.net/forum?id=OMTumHheAo"><img src="https://img.shields.io/badge/3DV_2026-OpenReview-8c1b13" alt="3DV 2026"></a>
 
 [Shengjie Zhu](https://shngjz.github.io/)<sup>1,2</sup>, [Ahmed Abdelkader](https://akader.netlify.app/)<sup>1</sup>, [Mark J. Matthews](https://www.markjmatthews.com/)<sup>1</sup>, [Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html)<sup>2</sup>, [Wen-Sheng Chu](https://l2ior.github.io/)<sup>1</sup>
 
