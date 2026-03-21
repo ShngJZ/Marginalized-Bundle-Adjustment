@@ -169,10 +169,10 @@ Detailed instructions for each dataset benchmark:
 ## Citation
 
 ```bibtex
-@inproceedings{zhu2026mba,
+@article{zhu2026marginalized,
   title={Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates},
-  author={Zhu, Shengjie and Abdelkader, Ahmed and Matthews, Mark J. and Liu, Xiaoming and Chu, Wen-Sheng},
-  booktitle={International Conference on 3D Vision (3DV)},
+  author={Zhu, Shengjie and Abdelkader, Ahmed and Matthews, Mark J and Liu, Xiaoming and Chu, Wen-Sheng},
+  journal={arXiv preprint arXiv:2602.18906},
   year={2026}
 }
 ```
